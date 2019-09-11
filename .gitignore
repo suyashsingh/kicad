@@ -1,2 +1,5 @@
 # Ignore pdf files
 *.pdf
+
+# Ignore Electrical Rule Check report file
+*.erc
