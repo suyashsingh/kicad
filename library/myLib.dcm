@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MYCONN3
+D MYCONN3 for KiCad getting started tutorial
+K MYCONN3
+$ENDCMP
+#
+#End Doc Library
